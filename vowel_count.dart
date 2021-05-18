@@ -16,7 +16,7 @@ int vowelCount(String str) {
         char.contains('i') ||
         char.contains('u') ||
         char.contains('e') ||
-        char.contains('u')) {
+        char.contains('o')) {
       count++;
     }
   }
